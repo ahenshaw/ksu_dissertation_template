@@ -1,0 +1,17 @@
+quantized-vortex:
+  type: Article
+  author: Gross, E. P.
+  title: patris
+  date: 1961-05
+  page-range: 454-477
+  doi: 10.1007/BF02731494
+  parent:
+    issue: 3
+    volume: 20
+    title: Il Nuovo Cimento
+
+patristic:
+  type: Article
+  author: Torrance, Thomas Forsyth
+  title: "Divine meaning: Studies in patristic hermeneutics"
+  date: 1995
